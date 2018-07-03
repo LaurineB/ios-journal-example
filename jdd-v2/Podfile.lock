@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Disk (0.3.3)
+  - Kingfisher (4.8.0)
+  - SVProgressHUD (2.2.5)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.5.0)
+  - Disk
+  - Kingfisher
+  - SVProgressHUD
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Disk
+    - Kingfisher
+    - SVProgressHUD
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Disk: d1f55cd61f6ca20f368232d0c6e37e3c3dfcb63e
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: 3997d5151c6670ade156077813e906e3e72cd259
+
+COCOAPODS: 1.5.3

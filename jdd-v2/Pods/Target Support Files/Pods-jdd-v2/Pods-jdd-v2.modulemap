@@ -1,0 +1,6 @@
+framework module Pods_jdd_v2 {
+  umbrella header "Pods-jdd-v2-umbrella.h"
+
+  export *
+  module * { export * }
+}
